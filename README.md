@@ -1,1 +1,2 @@
 # Bootstrap
+iI y a plusieurs façons d'intégrer les fichiers CSS/JS de Bootstrap. Je priorise la technique recommandée : celle des CDN. Un Content Delivery Network permet de charger les fichiers Bootstrap via des serveurs dédiés où ils sont déposés. En gros, au lieu d'appeler le fichier Bootstrap dans ton dossier, il va l'appeler sur cette adresse, qui a des serveurs plus robustes que les tiens, et qui fera charger la page plus rapidement. En plus d'être extrêmement simple à faire, c'est plus rapide. Les CDN sont donc la technique à privilégier pour installer Bootstrap
